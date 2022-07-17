@@ -86,7 +86,7 @@ li {
 
 .btn {
   margin: 0 auto;
-  width: 4rem;
+  width: 20%;
   line-height: 3;
   font-weight: normal;
 }
@@ -95,6 +95,7 @@ li {
   display: block;
   width: 100%;
   height: 100%;
+  font-size: 1.25rem;
   border-radius: 15px;
   background-color: aqua;
   text-align: center;
@@ -112,7 +113,7 @@ li {
 }
 
 .works_photo_inner {
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
@@ -120,7 +121,7 @@ li {
 }
 
 .works_photo_block {
-  width:25%;
+  width:20%;
   height:100%;
   padding-right: 5%;
   padding-left: 5%;
