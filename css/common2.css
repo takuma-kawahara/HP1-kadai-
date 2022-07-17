@@ -88,15 +88,16 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
   text-align: center;
 }
 
 .business_contents_2_inner_description_top {
-  height:30%;
-  line-height: 3.8rem;;
+  line-height: 3.8rem;
 }
 
 .business_contents_2_inner_description_top  h1.business_contents_2_font {
+  height:40%;
   font-size: 3rem;
 }
 
@@ -108,13 +109,15 @@
 }
 
 .business_contents_2_inner_description_under {
-  height: 50%;
+  height: 40%;
   text-align: center;
+  display: flex;
+  align-items: center;
 }
 
 .business_contents_2_inner_description_under_inner
 {
-  width: 50%;
+  width: 100%;
   font-size: 1.8rem;
   line-height: 2.5rem;
   margin: 0 auto;

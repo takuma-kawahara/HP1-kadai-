@@ -55,14 +55,14 @@
 
 .recruit_content_3_ttl h1{
   margin: 0 auto;
-  width: 25%;
+  width: 30%;
   font-size: 2rem;
   font-weight:bold;
   border-bottom: 1px solid #000;
 }
 
 .recruit_content_3_top {
-  width: 50%;
+  width: 55%;
   font-size: 2rem;
   margin: 0 auto;
   text-align: left;
@@ -106,9 +106,9 @@
 }
 
 .recruit_content_4_ttl p {
-  width:50%;
+  width:60%;
   letter-spacing: 2rem;
-  line-height: 4rem;
+  line-height: 3rem;
   background-color: white;
   text-align: center;
   margin: 0 auto;
@@ -146,7 +146,7 @@
 }
 
 .recruit_content_4_inner_description_left p {
-  font-size: 2rem;
+  font-size: 1.5.e8rem;
   line-height: 10rem;
 }
 
@@ -169,7 +169,7 @@
 .recruit_content_4_inner_description_right_list {
   height:100%;
   width:100%;
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 2;
   text-align: left;
 }

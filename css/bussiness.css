@@ -21,9 +21,9 @@
   height: auto;
   margin: 0 auto;
   background-color: rgb(245, 242, 235);
-  font-size: 4rem;
+  font-size: 2rem;
   letter-spacing: 1rem;
-  line-height: 5rem;
+  line-height: 3rem;
   ;
 }
 
@@ -31,7 +31,7 @@ hr {
   margin: 0 auto;
   background-color: black;
   height: 3px;
-  width: 80%;
+  width: 75%;
   margin-top: 3%;
 }
 
@@ -40,7 +40,7 @@ hr {
   height: auto;
   margin: 0 auto;
   padding-top: 3%;
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 4rem;
 }
 
@@ -82,8 +82,8 @@ hr {
 
 .business_contents_4_description_wrapper_inner {
   box-sizing: border-box;
-  width: 90%;
-  height: 90%;
+  width: 95%;
+  height: 95%;
   display: flex;
   justify-content: center;
   text-align: center;
@@ -94,17 +94,15 @@ hr {
 .business_contents_4_description_inner_left {
   box-sizing:border-box;
   width: 50%;
-}
-
-.business_contents_4_description_inner_left {
-  width:50%;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .business_contents_4_description_inner_left_txt {
   width: 60%;
   height:100%;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -117,8 +115,7 @@ hr {
 
 .business_contents_4_description_inner_left_under {
   width:100%;
-  font-size: 2.1rem;
-  margin-top: -30%;
+  font-size: 2rem;
 }
 
 .business_contents_4_description_inner_right {

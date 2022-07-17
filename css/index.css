@@ -14,17 +14,17 @@
 
 .top_ttl {
   position: absolute;
-  top: 20%;
+  top: 15%;
   left: 5%;
 }
 
 .top_ttl p {
-  font-size: 6rem;;
+  font-size: 3rem;;
   line-height: 15rem;
 }
 
 .top_ttl span {
-  font-size: 12rem;
+  font-size: 6rem;
 }
 
 .corporate_inner_wrapper {
@@ -78,7 +78,8 @@
 
 .business_comment_inner{
   position:absolute;
-  font-size: 20rem;;
+  font-size: 5em;;
+  letter-spacing: 2rem;
   left:-20%;
   top:-100%;
   width: 120%;
@@ -120,6 +121,7 @@
   line-height: 4rem;
   width: 90%;
   margin: 0 auto;
+  text-align: left;
 }
 
 .business_inner_img {
@@ -176,11 +178,11 @@
 
 .recruit_inner_description_top_inner {
   writing-mode: vertical-rl;
-  font-size: 5rem;
+  font-size: 3rem;
 }
 
 .recruit_inner_description_under {
-  font-size: 2rem;
+  font-size: 1.5rem;
   line-height: 4rem;
   width: 90%;
   margin-top:10rem;
