@@ -44,9 +44,10 @@
   height:100%;
   object-fit: cover;
   position: absolute;
-  left: 65%;
-  top:-18%;
+  left: 67%;
+  top:-16%;
   z-index: -1;
+  object-fit: cover;
 }
 
 /* ビジネス２項目目　 */
@@ -118,7 +119,7 @@
 .business_contents_2_inner_description_under_inner
 {
   width: 100%;
-  font-size: 1.8rem;
+  font-size: 1rem;
   line-height: 2.5rem;
   margin: 0 auto;
 }

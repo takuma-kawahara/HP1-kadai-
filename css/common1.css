@@ -86,7 +86,7 @@ li {
 
 .btn {
   margin: 0 auto;
-  width: 10%;
+  width: 4rem;
   line-height: 3;
   font-weight: normal;
 }
@@ -99,7 +99,6 @@ li {
   background-color: aqua;
   text-align: center;
   color: blanchedalmond;
-  font-size: 1rem;
   font-weight: bold;
 }
 
@@ -122,6 +121,7 @@ li {
 
 .works_photo_block {
   width:25%;
+  height:100%;
   padding-right: 5%;
   padding-left: 5%;
   padding-bottom:7%;
@@ -130,7 +130,7 @@ li {
 
 .works_photo_img {
   width: 100%;
-  height:25vh;
+  height:50%;
 }
 
 .works_photo_img img {
@@ -141,15 +141,17 @@ li {
 .works_photo_description {
   width:30%;
   height:20%;
+  display: flex;
   text-align: center;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   line-height: 2rem;
   border:solid;
   background-color: white;
   position: absolute;
-  top:65%;
-  left:55.3%
+  top:60%;
+  left:55.3%;
 }
 
 .works_btn {
@@ -191,7 +193,7 @@ li {
 }
 
 .contact_left_content_top_ttl{
-  font-size: 2.8rem;
+  font-size: 2rem;
 }
 
 .contact_left_content_top_ttl_sub{
@@ -204,7 +206,7 @@ li {
 }
 
 .contact_left_content_under {
-  font-size: 1.5rem;
+  font-size: 1rem;
   line-height: 2rem;
 }
 
@@ -286,14 +288,15 @@ footer {
 }
 
 .footer_right_content_list_1 {
-  font-size: 2rem;;
+  font-size: 1rem;;
   line-height: 4rem;
+  text-align: left;
   border-left: solid 5px;
   margin-right: 5%;
 }
 
 .footer_right_content_list_2 {
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 4rem;
   border-left: solid 5px;
 }
@@ -309,7 +312,7 @@ li a{
 
 .footer_copyright p{
   position:absolute;
-  font-size: 1.5rem;
+  font-size: 1rem;
   left:45%;
   top:-2rem;
 }

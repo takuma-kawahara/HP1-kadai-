@@ -2,7 +2,7 @@
 
 .company_information {
   width: 100vw;
-  height:100vh;
+  height:100%;
 }
 
 .company_information_wrapper {
@@ -18,19 +18,18 @@
 .information_inner{
   width: 80%;
   height: 70%;
+  padding: 10%;
 }
 
 .information_list{
   width: 100%;
   height: 100%;
-  font-size: 1rem;
-  line-height: 4rem;
 }
 
 .information_list li{
   width: 100%;
   display: flex;
-  line-height: 6rem;
+  line-height: 4rem;
   border-bottom: 1px solid #000;
   border-top: 1px solid #000;
 }

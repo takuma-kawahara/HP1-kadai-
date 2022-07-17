@@ -14,17 +14,17 @@
 
 .top_ttl {
   position: absolute;
-  top: 15%;
+  top: 10%;
   left: 5%;
 }
 
 .top_ttl p {
-  font-size: 3rem;;
+  font-size: 2rem;;
   line-height: 15rem;
 }
 
 .top_ttl span {
-  font-size: 6rem;
+  font-size: 4rem;
 }
 
 .corporate_inner_wrapper {
@@ -43,16 +43,17 @@
 }
 
 .corporate_inner_description_top {
-  font-size: 3rem;
+  font-size: 2rem;
   letter-spacing: 1.2rem;;
 }
 
 .corporate_inner_description_under {
-  font-size: 1.5rem;
-  line-height: 4rem;
+  font-size: 1rem;
+  line-height: 2rem;
   width: 90%;
   margin: 0 auto;
-  padding-top:10%;
+  text-align: left;
+  padding-top: 5%;
 }
 
 .corporate_inner_img {
@@ -78,11 +79,11 @@
 
 .business_comment_inner{
   position:absolute;
-  font-size: 5em;;
+  font-size: 15rem;;
   letter-spacing: 2rem;
   left:-20%;
-  top:-100%;
-  width: 120%;
+  top:-50%;
+  width: 130%;
 }
 
 .business_font {
@@ -117,8 +118,8 @@
 }
 
 .business_inner_description_under {
-  font-size: 1.2rem;
-  line-height: 4rem;
+  font-size: 1rem;
+  line-height: 2rem;
   width: 90%;
   margin: 0 auto;
   text-align: left;
@@ -136,7 +137,7 @@
 }
 
 .business_btn {
-  padding-top:4rem;
+  margin-top: 10%;
 }
 
 .recruit {
@@ -164,7 +165,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  text-align: center;;
+  text-align: center;
 }
 
 .recruit_inner_description_top {
@@ -178,11 +179,10 @@
 
 .recruit_inner_description_top_inner {
   writing-mode: vertical-rl;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 .recruit_inner_description_under {
-  font-size: 1.5rem;
   line-height: 4rem;
   width: 90%;
   margin-top:10rem;

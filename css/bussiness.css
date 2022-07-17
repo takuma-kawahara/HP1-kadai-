@@ -54,6 +54,10 @@ hr {
   text-align:center;
 }
 
+.business_contents_2_inner_description_under{
+  text-align: left;
+}
+
 .business_contents_4 {
   width:100%;
   text-align: center;
@@ -68,7 +72,9 @@ hr {
 }
 
 .business_cotents_4_ttl span{
-  font-size: 2rem;
+  font-size: 1.5rem;
+  color:rgb(12, 181, 155, 100%);
+  font-style: italic;
 }
 
 .business_contents_4_description_wrapper {
@@ -115,7 +121,8 @@ hr {
 
 .business_contents_4_description_inner_left_under {
   width:100%;
-  font-size: 2rem;
+  font-size: 1.5rem;
+  text-align: left;
 }
 
 .business_contents_4_description_inner_right {
