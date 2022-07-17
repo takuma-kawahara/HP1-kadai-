@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+.top_main {
+  height:100vh;
+  width:100%;
+  overflow: hidden;
+}
+
+.top_ttl {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width:60%;
+  height:50vh;
+  background-color: rgb(252, 252, 252);
+}
+
+.top_ttl_inner h1{
+  width:auto;
+  background-image: linear-gradient(rgba(0 0 0 / 0) 70%, #2920cf 70%);
+  font-size: 5rem;
+}
+
+.top_ttl_inner p {
+  font-size: 2.5rem;
+  color:rgb(12, 181, 155, 100%);
+  font-style: italic;
+}
+
+.top_img {
+  width: 60%;
+  height: 60vh;
+}
+
+.top_img_inner {
+  width:100%;
+  height:100%;
+  position: relative;
+}
+
+.top_img_inner img {
+  width:100%;
+  height:100%;
+  object-fit: cover;
+  position: absolute;
+  left: 65%;
+  top:-18%;
+  z-index: -1;
+}
+
+/* ビジネス２項目目　 */
+.business_contents_2_wrapper {
+  width:100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.business_contents_2_inner_img {
+  width: 50%;
+  height: 100%;
+}
+
+.business_contents_2_inner_img img { width: 100%;
+  height: 100%;
+  object-fit:cover;
+}
+
+.business_contents_2_comment {
+  width: 50%;
+  height: auto;
+}
+
+.business_contents_2_comment_inner {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.business_contents_2_inner_description {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.business_contents_2_inner_description_top {
+  height:30%;
+  line-height: 3.8rem;;
+}
+
+.business_contents_2_inner_description_top  h1.business_contents_2_font {
+  font-size: 3rem;
+}
+
+.business_contents_2_inner_description_top p {
+  font-size: 2rem;
+  font-family: Playfair Display;
+  color: rgb(12, 181, 155, 100%);
+  font-style: italic;
+}
+
+.business_contents_2_inner_description_under {
+  height: 50%;
+  text-align: center;
+}
+
+.business_contents_2_inner_description_under_inner
+{
+  width: 50%;
+  font-size: 1.8rem;
+  line-height: 2.5rem;
+  margin: 0 auto;
+}
+
+.business_contents_2_wrapper_row_reverse {
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-flow: row-reverse;
+}
+
+.business_contents_3 {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}

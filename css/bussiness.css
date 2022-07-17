@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+.business_contents_1_wrapper {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../img/bussiness/bussiness2.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.business_contents_1_inner {
+  width: 100%;
+  height: auto;
+}
+
+.business_contents_1_inner_top {
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+  background-color: rgb(245, 242, 235);
+  font-size: 4rem;
+  letter-spacing: 1rem;
+  line-height: 5rem;
+  ;
+}
+
+hr {
+  margin: 0 auto;
+  background-color: black;
+  height: 3px;
+  width: 80%;
+  margin-top: 3%;
+}
+
+.business_contents_1_inner_under {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 3%;
+  font-size: 2rem;
+  line-height: 4rem;
+}
+
+.business_contents_wrapper {
+  width: 100%;
+  height: auto;
+}
+
+.business_contents_2_inner_description{
+  display: flex;
+  text-align:center;
+}
+
+.business_contents_4 {
+  width:100%;
+  text-align: center;
+}
+
+.business_contents_4_ttl {
+  width:100%;
+}
+
+.business_cotents_4_ttl h1 {
+  font-size: 3rem;;
+}
+
+.business_cotents_4_ttl span{
+  font-size: 2rem;
+}
+
+.business_contents_4_description_wrapper {
+  height:80vh;
+  width: 100vw;
+  background-color: rgb(21,224,193);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.business_contents_4_description_wrapper_inner {
+  box-sizing: border-box;
+  width: 90%;
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 1%;
+  background-color: #fff;
+}
+
+.business_contents_4_description_inner_left {
+  box-sizing:border-box;
+  width: 50%;
+}
+
+.business_contents_4_description_inner_left {
+  width:50%;
+  display: flex;
+  justify-content: center;
+}
+
+.business_contents_4_description_inner_left_txt {
+  width: 60%;
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.business_contents_4_description_inner_left_top p {
+  font-size: 4rem;
+  color: rgb(21,224,193);
+}
+
+.business_contents_4_description_inner_left_under {
+  width:100%;
+  font-size: 2.1rem;
+  margin-top: -30%;
+}
+
+.business_contents_4_description_inner_right {
+  width:50%;
+}
+
+.business_contents_4_description_inner_right img {
+  width:100%;
+  height:100%;
+  object-fit: cover;
+}

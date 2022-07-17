@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.works {
+  height: 100%;
+  width: 100%;
+}
+
+.works_photo_wrapper {
+  margin-top: 5rem;
+}
