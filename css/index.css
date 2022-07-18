@@ -44,7 +44,7 @@
 
 .corporate_inner_description_top {
   font-size: 2rem;
-  letter-spacing: 1.2rem;;
+  text-align: center;
 }
 
 .corporate_inner_description_under {
@@ -179,7 +179,7 @@
 
 .recruit_inner_description_top_inner {
   writing-mode: vertical-rl;
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .recruit_inner_description_under {

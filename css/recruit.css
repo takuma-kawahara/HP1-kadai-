@@ -136,7 +136,7 @@
 }
 
 .recruit_content_4_inner_description_left_photo {
-  width:35%;
+  width:50%;
   height:35%;
 }
 
@@ -166,6 +166,7 @@
   justify-content: center;
   align-items: center;
   font-size: 1.5rem;
+  line-height: 2rem;
   text-align: left;
 }
 

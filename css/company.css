@@ -44,9 +44,5 @@
 .information_item .txt {
   width: 70%;
   text-align: left; 
-  padding-left: 30rem;
-}
-
-.acess {
-  align-items: center;
+  padding-left: 30%;
 }
