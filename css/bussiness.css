@@ -135,3 +135,7 @@ hr {
   height:100%;
   object-fit: cover;
 }
+
+.business_btn {
+  width: 51%;
+}
