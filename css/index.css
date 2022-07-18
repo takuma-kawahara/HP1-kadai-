@@ -44,6 +44,7 @@
 
 .corporate_inner_description_top {
   font-size: 2rem;
+  line-height: 3rem;
   text-align: center;
 }
 
@@ -187,6 +188,7 @@
   width: 90%;
   margin-top:10rem;
   margin: 0 auto;
+  font-size: 1rem;
 }
 
 
