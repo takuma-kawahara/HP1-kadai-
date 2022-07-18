@@ -164,6 +164,7 @@ li {
   height:60vh;
   border:solid;
   overflow: hidden;
+  box-sizing: border-box;
 }
 
 .contact_wrapper {
@@ -294,12 +295,14 @@ footer {
   text-align: left;
   border-left: solid 5px;
   margin-right: 5%;
+  font-weight: bold;
 }
 
 .footer_right_content_list_2 {
   font-size: 1rem;
   line-height: 4rem;
   border-left: solid 5px;
+  font-weight: bold;
 }
 
 li a{

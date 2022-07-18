@@ -139,6 +139,7 @@
 
 .business_btn {
   margin-top: 10%;
+  width: 40%;
 }
 
 .recruit {
@@ -220,4 +221,6 @@
     text-shadow: 1px 6px 1px rgba(209, 196, 196, 0.3);
 }
 
-
+.recruit_btn {
+  width: 51%;
+}
